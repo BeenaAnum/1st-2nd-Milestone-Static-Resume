@@ -1,5 +1,4 @@
-# 1st-2nd-Milestones
-# 2nd-Milestone-Dynamic-Resume
+# 1st-2nd-Milestone-Static-Resume and Deploy on vercel
 Milestone 2: Publish on GitHub and Host on Vercel (100 Points) 
 
 Objective:
