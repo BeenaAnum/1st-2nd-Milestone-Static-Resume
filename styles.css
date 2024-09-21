@@ -89,6 +89,6 @@ li {
 @media (max-width: 480px) {
     .container {
         width: 95%;
-        max-width: 100px;
+        max-width: 100%;
     }
 }
